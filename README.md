@@ -13,7 +13,7 @@
 - insert video for overlay in folder `overlay_videos`.
 - run `app.py`.
 
-💡 when script finished complete videos will be located in `results`
+💡 when script finished render videos will be located in `results`
 
 ## 💿 example
 <img src="https://github.com/mxxxxxoaoaoa/tt_videofactory/blob/master/staff/pic.png?raw=true">
